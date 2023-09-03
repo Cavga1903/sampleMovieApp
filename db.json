@@ -1,0 +1,20 @@
+{
+    "movies":[
+        {"id": 1,"title": "Ahsoka"},
+        {"id": 2,"title": "The Mandalorian"},
+        {"id": 3,"title": "The Bad Batch"},
+        {"id": 4,"title": "The Book of Boba Fett"},
+        {"id": 5,"title": "Andor"},
+        {"id": 6,"title": "Obi-Wan Kenobi"},
+        {"id": 7,"title": "Rangers of the New Republic"},
+        {"id": 8,"title": "Lando"},
+        {"id": 9,"title": "The Acolyte"},
+        {"id": 10,"title": "A Droid Story"}
+        {"id": 11, "title": "Oppenheimer" },
+        {"id": 12, "title": "Blue Beetle" },
+        {"id": 13, "title": "Barbie" }
+
+
+
+    ]
+}
